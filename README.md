@@ -1,2 +1,3 @@
-# Advanced__Modules_Guide
-Guide exploring some avanced coding for modules in Starsector
+# Advanced_Guide to Modules
+
+Guide exploring some advanced coding for modules in Starsector
